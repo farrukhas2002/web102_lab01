@@ -1,3 +1,6 @@
+# Amir Farrukh
+# Z23441934
+
 # React + Vite Calendar App
 A simple app which displays a component-based calendar consisting of a grid of timeslots.
 
